@@ -1,8 +1,11 @@
 # Poster Intertextor
 
-Jan Horstmann, Christian Lück, Immanuel Normann & Jan-Erik Stange (2024): InterAnnotator: Interfaces für die Annotation intertextueller Relationen. DHd 2024 Quo Vadis DH (DHd2024), Passau, Deutschland. Zenodo. https://doi.org/10.5281/zenodo.10706165.
+Jan Horstmann, Christian Lück, Immanuel Normann & Jan-Erik Stange (2024): InterAnnotator: Interfaces für die Annotation intertextueller Relationen. DHd 2024 Quo Vadis DH (DHd2024), Passau, Deutschland. Zenodo. (DOI [10.5281/zenodo.10698495][poster-zenodo]).
 
+[![Poster-Thumbnail][poster-thumbnail]][poster-zenodo]
 
+[poster-thumbnail]: media/poster-thumbnail.png
+[poster-zenodo]: https://doi.org/10.5281/zenodo.10706165
 
 # Poster-Abstract
 
